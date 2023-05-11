@@ -1,0 +1,16 @@
+{
+  "name": "design-pattrens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "design.js",
+  "scripts": {
+    "dev": "nodemon design.js",
+    "start": "node design.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
